@@ -3,5 +3,6 @@
 set -ex
 
 
-sudo apt install apache2 -y
-sudo apt install php -y
+sudo apt-get install apache2 -y
+sudo apt-get install php -y
+sudo apt-get install mysql -y
